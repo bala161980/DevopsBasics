@@ -3,3 +3,4 @@
 <h2> Good Luck and we are almost done with the course.Thankyou</h2>
 <h2> Session was really nice. Now enabled CI/CD </h2>
 <h3> Enabled CI/CD pipeline from scratch using Azure DevOps </h2>
+<h3> Now we have integrated Automated Test Suite into our CI/CD pipeline </h3>
